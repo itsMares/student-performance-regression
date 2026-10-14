@@ -108,6 +108,10 @@ https://www.kaggle.com/datasets/kundanbedmutha/student-performance-dataset
 
 Er steht unter der Lizenz **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**. Die Datei `Student_Performance.csv` liegt hier unverändert vor. Alle Bearbeitungsschritte (Entfernen von Spalten, Encoding, Skalierung) finden ausschließlich im Notebook statt.
 
+Hinweis: Die CSV-Datei (ca. 2,2 MB) ist für die GitHub-Vorschau zu groß und lässt sich über „Download raw file“ herunterladen. Die Spaltenbeschreibung und ein Auszug der Daten finden sich im Notebook im Abschnitt „Laden und Formatierung der Daten“.
+
+---
+
 ## Hinweis zur KI-Nutzung
 
 Bei der Entstehung dieses Projekts wurde ein KI-Assistent unterstützend eingesetzt, unter anderem für Strukturierung, Fehlersuche und die LaTeX-Formatierung. Umfang und Eigenleistung sind am Ende des Notebooks transparent beschrieben.
